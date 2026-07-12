@@ -1,0 +1,18 @@
+{
+  "mobile": {
+    "latest_version": "1.0.0",
+    "latest_version_code": 1,
+    "min_supported_version": "1.0.0",
+    "min_supported_version_code": 1,
+    "update_url": "https://github.com/mahidsec/oko/releases/latest/download/oko.apk",
+    "changelog": ["Coming Soon"]
+  },
+  "tv": {
+    "latest_version": "1.0.0",
+    "latest_version_code": 1,
+    "min_supported_version": "1.0.0",
+    "min_supported_version_code": 1,
+    "update_url": "https://github.com/mahidsec/oko/releases/latest/download/oko-tv.apk",
+    "changelog": ["Coming Soon"]
+  }
+}

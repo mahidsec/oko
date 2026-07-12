@@ -1,0 +1,43 @@
+# oko — Full Documentation
+
+## What is oko?
+oko is a lightweight Android app for streaming movies, TV shows, and live TV via CircleFTP on BDIX networks. It is free, has no ads, and is open source.
+
+## How it Works
+CircleFTP is a protocol used on BDIX (Bangladesh Domestic Internet Exchange) networks to share media content via local FTP servers. BDIX is a local peering network that connects Bangladeshi ISPs, enabling fast intra-country data transfer. When a user connects to a BDIX-supported ISP, various media servers become available on the local network. These servers host movies, TV series, live TV channels, and other media content accessible via the FTP protocol.
+
+oko acts as a specialized client for these CircleFTP servers. Instead of using a web browser (which is slow and unoptimized for this purpose), oko directly connects to available FTP servers, discovers media content, and provides a clean streaming interface.
+
+## Platform Support
+- **Mobile**: Android 5.0 (Lollipop) and above
+- **Android TV**: Android 4.4.4 (KitKat) and above, with D-Pad navigation support
+
+## Features
+- Direct CircleFTP streaming from BDIX servers
+- Movies, TV shows, and live TV support
+- Multi-source server discovery
+- Lightweight and fast
+- No ads, no account required
+- Free and open source
+
+## Requirements
+- A device running Android 5.0+ (mobile) or Android 4.4.4+ (TV)
+- Connection to a BDIX-supported ISP in Bangladesh
+- No internet connection to outside Bangladesh is required for content
+
+## Privacy
+oko does not collect, store, or transmit any personal information. No account is required. Anonymous usage analytics may be collected to improve the app.
+
+## Links
+- Website: https://mahidsec.github.io/oko/
+- Download Mobile APK: https://github.com/mahidsec/oko/releases/latest/download/oko.apk
+- Download TV APK: https://github.com/mahidsec/oko/releases/latest/download/oko-tv.apk
+- GitHub Repository: https://github.com/mahidsec/oko
+- Privacy Policy: https://mahidsec.github.io/oko/privacy-policy/
+
+## Developer
+officialoko@proton.me
+- Email: officialoko@proton.me
+
+## Related Terms
+BDIX streaming, CircleFTP app, BDIX FTP client, Bangladeshi streaming app, local FTP media server, BDIX movie server, Android TV BDIX, free BDIX streaming, BDIX network app, ftpbd

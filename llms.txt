@@ -1,0 +1,20 @@
+# oko
+
+> A lightweight Android and Android TV app for streaming movies, TV shows, and live TV via CircleFTP on BDIX networks.
+
+oko is a free, open-source CircleFTP streaming client built for BDIX networks in Bangladesh. It provides direct access to local FTP media servers without the overhead of a web browser.
+
+## Key Features
+- Streams movies, TV shows, and live TV from BDIX CircleFTP servers
+- Works on Android phones (5.0+) and Android TV (4.4.4+)
+- Lightweight and fast with no ads
+- Multi-source support for different BDIX servers
+- D-Pad navigation optimized for TV
+
+## Links
+- Website: https://mahidsec.github.io/oko/
+- Download (Mobile): https://github.com/mahidsec/oko/releases/latest/download/oko.apk
+- Download (TV): https://github.com/mahidsec/oko/releases/latest/download/oko-tv.apk
+- Source code: https://github.com/mahidsec/oko
+- Privacy Policy: https://mahidsec.github.io/oko/privacy-policy/
+oko connects to CircleFTP servers available on BDIX (Bangladesh Domestic Internet Exchange) networks. Users must be connected to a supported BDIX ISP to access content. The app discovers available media servers on the local network and presents them in a clean interface for browsing and streaming.
