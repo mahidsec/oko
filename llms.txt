@@ -1,20 +1,21 @@
-# oko
+# oko — BDIX Browser
 
-> A lightweight Android and Android TV app for streaming movies, TV shows, and live TV via CircleFTP on BDIX networks.
+> A free BDIX browser for Android: browse and stream movies, TV shows and live TV from BDIX FTP servers in Bangladesh. One app for mobile & Android TV.
 
-oko is a free, open-source CircleFTP streaming client built for BDIX networks in Bangladesh. It provides direct access to local FTP media servers without the overhead of a web browser.
+oko is a free, lightweight BDIX browser built for BDIX networks in Bangladesh. It browses local FTP media servers and plays content in a clean, fast interface — no browser overhead, no account needed. Supported by ads via Google AdMob.
 
 ## Key Features
-- Streams movies, TV shows, and live TV from BDIX CircleFTP servers
-- Works on Android phones (5.0+) and Android TV (4.4.4+)
-- Lightweight and fast with no ads
-- Multi-source support for different BDIX servers
-- D-Pad navigation optimized for TV
+- BDIX browsing: movies, TV shows and live TV from BDIX FTP servers
+- Android 5.0+ phones and Android TV in one app (package com.okoplayer.app, v1.0.0)
+- Lightweight, fast, minimal interface; TV-friendly navigation
+- Watch history, settings and downloads stay on-device
 
 ## Links
 - Website: https://mahidsec.github.io/oko/
-- Download (Mobile): https://github.com/mahidsec/oko/releases/latest/download/oko.apk
-- Download (TV): https://github.com/mahidsec/oko/releases/latest/download/oko-tv.apk
-- Source code: https://github.com/mahidsec/oko
+- Google Play: https://play.google.com/store/apps/details?id=com.okoplayer.app
 - Privacy Policy: https://mahidsec.github.io/oko/privacy-policy/
-oko connects to CircleFTP servers available on BDIX (Bangladesh Domestic Internet Exchange) networks. Users must be connected to a supported BDIX ISP to access content. The app discovers available media servers on the local network and presents them in a clean interface for browsing and streaming.
+- Terms of Use: https://mahidsec.github.io/oko/terms-of-use/
+- Contact: officialoko@proton.me
+
+oko connects to BDIX (Bangladesh) FTP media servers. Users must be on a supported BDIX ISP network to access content. The app browses available servers on the local network and streams in-app.
+

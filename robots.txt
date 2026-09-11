@@ -1,20 +1,19 @@
 User-agent: *
 Allow: /
-Sitemap: https://mahidsec.github.io/oko/sitemap.xml
 
 User-agent: GPTBot
-Allow: /
-
-User-agent: Google-Extended
 Allow: /
 
 User-agent: ChatGPT-User
 Allow: /
 
-User-agent: CCBot
+User-agent: Google-Extended
 Allow: /
 
 User-agent: anthropic-ai
+Allow: /
+
+User-agent: ClaudeBot
 Allow: /
 
 User-agent: PerplexityBot
@@ -28,3 +27,6 @@ Allow: /
 
 User-agent: meta-externalagent
 Allow: /
+
+Sitemap: https://mahidsec.github.io/oko/sitemap.xml
+# llms.txt: https://mahidsec.github.io/oko/llms.txt
